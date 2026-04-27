@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-yyunfb.citysinglescommunity.com/sitemap.xml
